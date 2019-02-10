@@ -1,0 +1,176 @@
+* {
+  box-sizing: border-box;
+  font-family: serif sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+#myheader {
+  color: yellowgreen;
+  font-size: 40px;
+}
+
+.nav ul {
+  margin: 0;
+}
+
+.nav li {
+  display: inline;
+  background-color: darkseagreen;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 0.5em;
+  color: white;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: orangered;
+}
+
+.main-nav {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: lighter;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.main-nav li {
+  padding: 0 5%;
+}
+
+.main-header {
+  background-color: darkseagreen;
+  background-size: cover;
+  padding-bottom: 30px;
+}
+
+.head-name {
+  text-align: center;
+  margin: 0;
+  font-size: 3em;
+  font-family: fantasy;
+  background-color: bisque;
+}
+
+@media (min-width: 500px) {
+  p {
+    font-family: fantasy;
+  }
+}
+@media (max-width: 300px) {
+  p {
+    font-family: monospace;
+  }
+}
+@media print {
+  .screen-only {
+    display: none;
+  }
+}
+.screen-only {
+  color: red;
+}
+
+button {
+  background-color: skyblue;
+}
+
+.img-src {
+  size: 0.1em;
+}
+
+.content-secton {
+  margin: 1em;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+}
+
+.section-header {
+  font-family: monospace;
+  font-weight: normal;
+  color: #333;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container > div {
+  background-color: burlywood;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  width: 200px;
+}
+
+.grid {
+  background-color: orangered;
+  display: grid;
+  padding: 10px;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  grid-template-columns: 100px auto auto;
+}
+
+.grid-item {
+  background-color: white;
+  font-size: 30px;
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+.main-footer {
+  background-color: darkseagreen;
+  color: white;
+  padding: 0.25em 0;
+}
+
+.main-footer-container {
+  display: flex;
+  align-items: center;
+}
+
+div {
+  font-size: 18px;
+}
+div div p {
+  color: black;
+}
+
+.success {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.success {
+  background-color: green;
+}
+
+/*# sourceMappingURL=styles.scss.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.scss.map */
+
+/*# sourceMappingURL=styles.css.map */
