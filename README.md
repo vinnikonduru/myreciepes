@@ -1,6 +1,9 @@
+# my-reciepes
 
+## Objective 
+Here are some of my favourite reciepes which created as an assignment from cs50 by edx.
 
+## Dependencies
+This reciepes website was built using Html,CSS.
 
-        Hello, My name is Vinnie, this is my website using HTML and CSS. My website consists of Main Home page, About and Reciepes where you can navigate from every file. Mobile Responsive and I would like to improve my coding skills better in next project, Thankyou.
-    
 
