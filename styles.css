@@ -17,7 +17,7 @@ h2 {
 }
 
 #myheader {
-  color: yellowgreen;
+  color: yellow;
   font-size: 40px;
 }
 
@@ -27,7 +27,7 @@ h2 {
 
 .nav li {
   display: inline;
-  background-color: darkseagreen;
+  background-color: aqua;
 }
 
 .nav a {
@@ -38,7 +38,7 @@ h2 {
 }
 
 .nav a:hover {
-  background-color: orangered;
+  background-color: orange;
 }
 
 .main-nav {
@@ -53,7 +53,7 @@ h2 {
 }
 
 .main-header {
-  background-color: darkseagreen;
+  background-color: green;
   background-size: cover;
   padding-bottom: 30px;
 }
@@ -82,7 +82,7 @@ h2 {
   }
 }
 .screen-only {
-  color: red;
+  color: aqua;
 }
 
 button {
@@ -125,7 +125,7 @@ button {
 }
 
 .grid {
-  background-color: orangered;
+  background-color: orange;
   display: grid;
   padding: 10px;
   grid-column-gap: 10px;
@@ -142,7 +142,7 @@ button {
 }
 
 .main-footer {
-  background-color: darkseagreen;
+  background-color: aqua;
   color: white;
   padding: 0.25em 0;
 }
@@ -166,7 +166,7 @@ div div p {
 }
 
 .success {
-  background-color: green;
+  background-color: white;
 }
 
 /*# sourceMappingURL=styles.scss.map */
