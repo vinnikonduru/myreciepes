@@ -27,7 +27,7 @@ h2 {
 
 .nav li {
   display: inline;
-  background-color: aqua;
+  background-color: bisque;
 }
 
 .nav a {
@@ -82,7 +82,7 @@ h2 {
   }
 }
 .screen-only {
-  color: aqua;
+  color: bisque;
 }
 
 button {
@@ -142,7 +142,7 @@ button {
 }
 
 .main-footer {
-  background-color: aqua;
+  background-color: bisque;
   color: white;
   padding: 0.25em 0;
 }
